@@ -6,10 +6,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajashree-sardar-a48583253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajashree-sardar-a48583253/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/rajashreee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rajashreee" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rajashreesardar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rajashreesardar1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rajashree__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rajashree__/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/rajashreesjzb5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rajashreesjzb5/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rajashreee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajashreee" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rajashreesardar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajashreesardar1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rajashree__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajashree__" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rajashreesjzb5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajashreesjzb5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
