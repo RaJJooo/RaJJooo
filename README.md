@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajjooo&label=Profile%20views&color=0e75b6&style=flat" alt="rajjooo" /> </p>
 
-- 🌱 I’m currently learning **Node.JS, MongoDB**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **rajashreesardar257@gmail.com**
 
